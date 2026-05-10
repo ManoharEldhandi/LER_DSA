@@ -278,36 +278,13 @@ changed and why.
 
 ---
 
-## Public or Private?
-
-Keep the repository **public** if the goal is to share it on LinkedIn and allow
-any learner to fork it, use it, and open pull requests.
-
-Use **private** only if you want to restrict access. In a private repository,
-people need explicit access before they can view the repo or contribute. For an
-open learning resource, public is the better setup.
-
-Suggested public setup:
-
-- Keep visibility as public.
-- Keep the MIT license.
-- Review pull requests before merging.
-- Protect the `main` branch later if the repo starts getting contributors.
-
-To change repository visibility on GitHub:
-
-1. Open the repository on GitHub.
-2. Go to `Settings`.
-3. Scroll to `Danger Zone`.
-4. Choose `Change repository visibility`.
-5. Select public or private and confirm.
-
-For this project, public is recommended because it lets others discover the
-repo, fork it, and send pull requests.
-
----
-
 ## License
 
 This project is available under the MIT License. Use it, adapt it, and share it
 for learning.
+
+
+
+---
+
+## @2026 Manohar Eldhandi
