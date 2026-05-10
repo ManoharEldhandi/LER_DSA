@@ -2,7 +2,7 @@
 
 Use this file every day. Be honest. The tracker is not for looking impressive. It is for finding weak patterns before interviews find them.
 
-Sprint dates: **May 11, 2026 to June 9, 2026**  
+Plan length: **30 days**  
 Target: **80 to 95 serious problem attempts**  
 Starting count: **0**
 
@@ -44,38 +44,38 @@ Revision schedule:
 
 Mark a day complete only when you log the problems and schedule revisits.
 
-| Day | Date | Topic | Target Done? | Problems Done | Notes |
-|---:|---|---|---|---:|---|
-| 1 | May 11 | Java, Big-O, array basics | [ ] | 0 |  |
-| 2 | May 12 | Array running state | [ ] | 0 |  |
-| 3 | May 13 | Prefix and grouping | [ ] | 0 |  |
-| 4 | May 14 | Prefix sum + HashMap | [ ] | 0 |  |
-| 5 | May 15 | Two pointers | [ ] | 0 |  |
-| 6 | May 16 | Sliding window, binary search | [ ] | 0 |  |
-| 7 | May 17 | Binary search on answer, review | [ ] | 0 |  |
-| 8 | May 18 | Stack basics | [ ] | 0 |  |
-| 9 | May 19 | Monotonic stack | [ ] | 0 |  |
-| 10 | May 20 | Linked list basics | [ ] | 0 |  |
-| 11 | May 21 | Linked list mediums | [ ] | 0 |  |
-| 12 | May 22 | Backtracking basics | [ ] | 0 |  |
-| 13 | May 23 | Backtracking, strings | [ ] | 0 |  |
-| 14 | May 24 | Sorting, matrix | [ ] | 0 |  |
-| 15 | May 25 | Binary tree traversal | [ ] | 0 |  |
-| 16 | May 26 | Tree recursion | [ ] | 0 |  |
-| 17 | May 27 | BST | [ ] | 0 |  |
-| 18 | May 28 | Tree mediums | [ ] | 0 |  |
-| 19 | May 29 | Heap basics | [ ] | 0 |  |
-| 20 | May 30 | Greedy, intervals | [ ] | 0 |  |
-| 21 | May 31 | Heap hard, interval review | [ ] | 0 |  |
-| 22 | Jun 1 | Graph BFS/DFS | [ ] | 0 |  |
-| 23 | Jun 2 | Graph multi-source BFS | [ ] | 0 |  |
-| 24 | Jun 3 | Topological sort, Union-Find | [ ] | 0 |  |
-| 25 | Jun 4 | Components, shortest path | [ ] | 0 |  |
-| 26 | Jun 5 | Dynamic programming 1D | [ ] | 0 |  |
-| 27 | Jun 6 | DP patterns, 2D DP | [ ] | 0 |  |
-| 28 | Jun 7 | Tries, bits, math | [ ] | 0 |  |
-| 29 | Jun 8 | Design-style coding | [ ] | 0 |  |
-| 30 | Jun 9 | Final mixed review | [ ] | 0 |  |
+| Day | Topic | Target Done? | Problems Done | Notes |
+|---:|---|---|---:|---|
+| 1 | Java, Big-O, array basics | [ ] | 0 |  |
+| 2 | Array running state | [ ] | 0 |  |
+| 3 | Prefix and grouping | [ ] | 0 |  |
+| 4 | Prefix sum + HashMap | [ ] | 0 |  |
+| 5 | Two pointers | [ ] | 0 |  |
+| 6 | Sliding window, binary search | [ ] | 0 |  |
+| 7 | Binary search on answer, review | [ ] | 0 |  |
+| 8 | Stack basics | [ ] | 0 |  |
+| 9 | Monotonic stack | [ ] | 0 |  |
+| 10 | Linked list basics | [ ] | 0 |  |
+| 11 | Linked list mediums | [ ] | 0 |  |
+| 12 | Backtracking basics | [ ] | 0 |  |
+| 13 | Backtracking, strings | [ ] | 0 |  |
+| 14 | Sorting, matrix | [ ] | 0 |  |
+| 15 | Binary tree traversal | [ ] | 0 |  |
+| 16 | Tree recursion | [ ] | 0 |  |
+| 17 | BST | [ ] | 0 |  |
+| 18 | Tree mediums | [ ] | 0 |  |
+| 19 | Heap basics | [ ] | 0 |  |
+| 20 | Greedy, intervals | [ ] | 0 |  |
+| 21 | Heap hard, interval review | [ ] | 0 |  |
+| 22 | Graph BFS/DFS | [ ] | 0 |  |
+| 23 | Graph multi-source BFS | [ ] | 0 |  |
+| 24 | Topological sort, Union-Find | [ ] | 0 |  |
+| 25 | Components, shortest path | [ ] | 0 |  |
+| 26 | Dynamic programming 1D | [ ] | 0 |  |
+| 27 | DP patterns, 2D DP | [ ] | 0 |  |
+| 28 | Tries, bits, math | [ ] | 0 |  |
+| 29 | Design-style coding | [ ] | 0 |  |
+| 30 | Final mixed review | [ ] | 0 |  |
 
 ---
 
@@ -113,9 +113,9 @@ Update counts weekly.
 
 Format:
 
-`| # | Date | Problem | Topic | Difficulty | Rating | Time | Pattern | Mistake / Learning | Revisit |`
+`| # | Day | Problem | Topic | Difficulty | Rating | Time | Pattern | Mistake / Learning | Revisit |`
 
-| # | Date | Problem | Topic | Difficulty | Rating | Time | Pattern | Mistake / Learning | Revisit |
+| # | Day | Problem | Topic | Difficulty | Rating | Time | Pattern | Mistake / Learning | Revisit |
 |---:|---|---|---|---|---|---|---|---|---|
 | 1 |  |  |  |  |  |  |  |  |  |
 
@@ -127,7 +127,7 @@ Add new rows as you solve problems.
 
 Every `[H]` and `[L]` goes here.
 
-| Problem | Topic | First Try Date | Rating | Day 3 | Week 1 | Week 2 | Final Status |
+| Problem | Topic | First Try Day | Rating | Day 3 | Week 1 | Week 2 | Final Status |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |
 
@@ -152,7 +152,7 @@ Add patterns here when you miss them twice.
 
 ## Timed Session Log
 
-| Date | Problems | Time | Result | What Went Well | What To Fix |
+| Day | Problems | Time | Result | What Went Well | What To Fix |
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
 

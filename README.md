@@ -4,8 +4,7 @@
 
 **Language:** Java  
 **Timeline:** 30 days  
-**Daily commitment:** 2 hours on weekdays, 4 hours on weekends  
-**Sprint dates:** May 11, 2026 to June 9, 2026  
+**Suggested pace:** 2 hours on regular study days, 4 hours on deep-work days  
 **Goal:** Learn the core DSA patterns, solve the right problems in the right order, and become ready for serious coding interview practice.
 
 This is a self-contained Java DSA curriculum. It is written for anyone who wants a clear, practical, one-month path from fundamentals to interview-level problem solving.
@@ -19,7 +18,7 @@ The repo is not just a problem list. Each topic has:
 - revision rules
 - interview communication guidance
 
-If you start on a different date, follow the same Day 1 through Day 30 order.
+Start anytime and follow the same Day 1 through Day 30 order.
 
 ---
 
@@ -39,10 +38,10 @@ The goal is not to memorize answers. The goal is to recognize patterns, explain 
 
 ## The Sprint Strategy
 
-Starting on Monday, May 11, 2026 gives about **76 study hours**:
+The plan is designed for roughly **70 to 80 focused study hours**:
 
-- 22 weekdays x 2 hours = 44 hours
-- 8 weekend days x 4 hours = 32 hours
+- regular study days: about 2 hours
+- deep-work days: about 4 hours
 
 That is enough for:
 
@@ -56,10 +55,13 @@ This is an intense plan. It works only if the attempts are honest.
 
 Good rules:
 
-- Weekdays: one topic, one or two strong problems.
-- Weekends: deeper practice, revision, and timed sets.
+- Regular study days: one topic, one or two strong problems.
+- Deep-work days: deeper practice, revision, and timed sets.
 - Editorials are allowed only after a real attempt.
 - A problem is not complete until you can explain the pattern and redo it later.
+
+If your schedule is different, keep the order and shift the deep-work blocks to
+the days where you have more time.
 
 ---
 
@@ -69,6 +71,7 @@ Good rules:
 LER_DSA/
 |
 |-- README.md                         Sprint overview and repo map
+|-- LICENSE                           MIT license
 |-- STUDY_PLAN_DETAILED.md            30-day plan with exact daily work
 |-- progress_tracker.md               Daily tracker, problem log, revision queue
 |-- COVERAGE_AUDIT.md                 Topic coverage and what to prioritize
@@ -181,7 +184,7 @@ Target: 20 to 25 problems.
 
 ## Daily Schedule
 
-### Weekday 2-Hour Block
+### Regular 2-Hour Block
 
 ```
 00:00 - 00:10   Review yesterday's mistakes
@@ -191,7 +194,7 @@ Target: 20 to 25 problems.
 01:50 - 02:00   Log result and schedule revision
 ```
 
-### Weekend 4-Hour Block
+### Deep-Work 4-Hour Block
 
 ```
 00:00 - 00:30   Review weak patterns
@@ -244,3 +247,67 @@ No curriculum can guarantee an offer. This repo gives the structure. The result 
 - LeetCode: https://leetcode.com
 - Visualgo: https://visualgo.net
 - Big-O Cheat Sheet: https://www.bigocheatsheet.com
+
+---
+
+## Contributing
+
+Contributions are welcome. If you want to improve explanations, add examples,
+fix mistakes, or suggest better problem ordering:
+
+1. Fork the repository.
+2. Create a branch:
+
+```bash
+git checkout -b improve-topic-notes
+```
+
+3. Make your changes.
+4. Commit and push:
+
+```bash
+git add .
+git commit -m "Improve topic notes"
+git push origin improve-topic-notes
+```
+
+5. Open a pull request to the `main` branch.
+
+For small fixes, keep the pull request focused. For bigger changes, explain what
+changed and why.
+
+---
+
+## Public or Private?
+
+Keep the repository **public** if the goal is to share it on LinkedIn and allow
+any learner to fork it, use it, and open pull requests.
+
+Use **private** only if you want to restrict access. In a private repository,
+people need explicit access before they can view the repo or contribute. For an
+open learning resource, public is the better setup.
+
+Suggested public setup:
+
+- Keep visibility as public.
+- Keep the MIT license.
+- Review pull requests before merging.
+- Protect the `main` branch later if the repo starts getting contributors.
+
+To change repository visibility on GitHub:
+
+1. Open the repository on GitHub.
+2. Go to `Settings`.
+3. Scroll to `Danger Zone`.
+4. Choose `Change repository visibility`.
+5. Select public or private and confirm.
+
+For this project, public is recommended because it lets others discover the
+repo, fork it, and send pull requests.
+
+---
+
+## License
+
+This project is available under the MIT License. Use it, adapt it, and share it
+for learning.

@@ -145,7 +145,7 @@ The problems are listed in the order you should solve them. Start from the top.
 
   2. Trapping Rain Water              LeetCode #42
      Pattern: Two pointers or Stack
-     Asked very frequently at Google, Amazon, Meta.
+     Asked frequently in coding interviews.
 
   3. Minimum Window Substring         LeetCode #76
      Pattern: Sliding window with frequency map

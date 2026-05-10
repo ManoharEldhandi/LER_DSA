@@ -2,13 +2,14 @@
 
 This is the main sprint plan for `LER_DSA`.
 
-Start date: **Monday, May 11, 2026**  
-End date: **Tuesday, June 9, 2026**  
-Time available: **2 hours on weekdays, 4 hours on weekends**  
+Plan length: **30 days**  
+Suggested pace: **2 hours on regular study days, 4 hours on deep-work days**  
 Main target: **80 to 95 problems solved properly**  
 Stretch target: **100+ problems if revision is still clean**
 
-If you start later, ignore the dates and follow Day 1 through Day 30 in order.
+Start anytime. Follow Day 1 through Day 30 in order. If your schedule is
+different, move the 4-hour deep-work blocks to the days where you have more
+time.
 
 ---
 
@@ -37,12 +38,12 @@ Any `[H]` or `[L]` problem must be redone after 3 days, 1 week, and 2 weeks.
 
 ## Daily Problem Load
 
-Weekday target:
+Regular study day target:
 
 - 1 main problem carefully, plus 1 easy if time allows
 - stop after 2 hours and log what happened
 
-Weekend target:
+Deep-work day target:
 
 - 4 to 5 problems
 - 1 revision block
@@ -54,7 +55,7 @@ Quality beats count. A clean 80-problem sprint is better than a messy 130-proble
 
 ## Week 1 -- Foundation, Arrays, Hashing, Pointers, Search
 
-### Day 1 -- Mon May 11 -- Java + Big-O + Array Basics
+### Day 1 -- Java + Big-O + Array Basics
 
 Time: 2 hours
 
@@ -72,7 +73,7 @@ Checkpoint:
 - You can explain why HashMap lookup is average O(1).
 - You can write frequency counting with `int[26]` and `HashMap`.
 
-### Day 2 -- Tue May 12 -- Array Running State
+### Day 2 -- Array Running State
 
 Time: 2 hours
 
@@ -87,7 +88,7 @@ Solve:
 Checkpoint:
 - You can explain what each tracking variable means.
 
-### Day 3 -- Wed May 13 -- Prefix and Grouping
+### Day 3 -- Prefix and Grouping
 
 Time: 2 hours
 
@@ -98,7 +99,7 @@ Solve:
 Checkpoint:
 - You can group items by a computed key.
 
-### Day 4 -- Thu May 14 -- Prefix Sum + HashMap
+### Day 4 -- Prefix Sum + HashMap
 
 Time: 2 hours
 
@@ -109,7 +110,7 @@ Solve:
 Checkpoint:
 - You know why prefix sum stores `sum - k`.
 
-### Day 5 -- Fri May 15 -- Two Pointers
+### Day 5 -- Two Pointers
 
 Time: 2 hours
 
@@ -125,7 +126,7 @@ Solve:
 Checkpoint:
 - You can skip duplicates correctly in 3Sum.
 
-### Day 6 -- Sat May 16 -- Sliding Window + Binary Search
+### Day 6 -- Sliding Window + Binary Search
 
 Time: 4 hours
 
@@ -145,7 +146,7 @@ Checkpoint:
 - You know fixed window vs variable window.
 - You can update binary search boundaries without guessing.
 
-### Day 7 -- Sun May 17 -- Binary Search on Answer + Review
+### Day 7 -- Binary Search on Answer + Review
 
 Time: 4 hours
 
@@ -171,7 +172,7 @@ Week 1 checkpoint:
 
 ## Week 2 -- Stacks, Linked Lists, Backtracking, Strings, Matrix
 
-### Day 8 -- Mon May 18 -- Stack Basics
+### Day 8 -- Stack Basics
 
 Time: 2 hours
 
@@ -187,7 +188,7 @@ Solve:
 Checkpoint:
 - You can explain why stack fits matching and next-greater problems.
 
-### Day 9 -- Tue May 19 -- Monotonic Stack
+### Day 9 -- Monotonic Stack
 
 Time: 2 hours
 
@@ -199,7 +200,7 @@ Solve:
 Tip:
 - LC 84 is supposed to feel hard. Focus on width calculation.
 
-### Day 10 -- Wed May 20 -- Linked List Basics
+### Day 10 -- Linked List Basics
 
 Time: 2 hours
 
@@ -215,7 +216,7 @@ Solve:
 Checkpoint:
 - You can reverse a list without losing `next`.
 
-### Day 11 -- Thu May 21 -- Linked List Mediums
+### Day 11 -- Linked List Mediums
 
 Time: 2 hours
 
@@ -227,7 +228,7 @@ Solve:
 Checkpoint:
 - You know when to use dummy node, fast/slow pointers, and HashMap.
 
-### Day 12 -- Fri May 22 -- Backtracking Basics
+### Day 12 -- Backtracking Basics
 
 Time: 2 hours
 
@@ -242,7 +243,7 @@ Solve:
 Checkpoint:
 - Your template is choose, explore, un-choose.
 
-### Day 13 -- Sat May 23 -- Backtracking + Strings
+### Day 13 -- Backtracking + Strings
 
 Time: 4 hours
 
@@ -262,7 +263,7 @@ Review:
 Checkpoint:
 - You can explain when a problem is asking for all possibilities.
 
-### Day 14 -- Sun May 24 -- Sorting + Matrix
+### Day 14 -- Sorting + Matrix
 
 Time: 4 hours
 
@@ -288,7 +289,7 @@ Week 2 checkpoint:
 
 ## Week 3 -- Trees, Heaps, Greedy, Intervals
 
-### Day 15 -- Mon May 25 -- Binary Tree Traversal
+### Day 15 -- Binary Tree Traversal
 
 Time: 2 hours
 
@@ -304,7 +305,7 @@ Solve:
 Checkpoint:
 - You can write recursive DFS and queue-based BFS.
 
-### Day 16 -- Tue May 26 -- Tree Recursion
+### Day 16 -- Tree Recursion
 
 Time: 2 hours
 
@@ -316,7 +317,7 @@ Solve:
 Checkpoint:
 - You can return information from children to parent nodes.
 
-### Day 17 -- Wed May 27 -- BST
+### Day 17 -- BST
 
 Time: 2 hours
 
@@ -328,7 +329,7 @@ Solve:
 Checkpoint:
 - You know why inorder traversal of a BST is sorted.
 
-### Day 18 -- Thu May 28 -- Tree Mediums
+### Day 18 -- Tree Mediums
 
 Time: 2 hours
 
@@ -340,7 +341,7 @@ Solve:
 Checkpoint:
 - You can choose between DFS and BFS based on what the problem asks.
 
-### Day 19 -- Fri May 29 -- Heap Basics
+### Day 19 -- Heap Basics
 
 Time: 2 hours
 
@@ -356,7 +357,7 @@ Solve:
 Checkpoint:
 - You can decide min-heap vs max-heap.
 
-### Day 20 -- Sat May 30 -- Greedy + Intervals
+### Day 20 -- Greedy + Intervals
 
 Time: 4 hours
 
@@ -375,7 +376,7 @@ Solve:
 Checkpoint:
 - You can explain the greedy choice in plain English.
 
-### Day 21 -- Sun May 31 -- Heap Hard + Interval Review
+### Day 21 -- Heap Hard + Interval Review
 
 Time: 4 hours
 
@@ -400,7 +401,7 @@ Week 3 checkpoint:
 
 ## Week 4 -- Graphs, Union-Find, DP, Tries, Bits, Design, Review
 
-### Day 22 -- Mon Jun 1 -- Graph BFS/DFS
+### Day 22 -- Graph BFS/DFS
 
 Time: 2 hours
 
@@ -415,7 +416,7 @@ Solve:
 Checkpoint:
 - You can turn grid movement into four directions.
 
-### Day 23 -- Tue Jun 2 -- Graph Multi-Source BFS
+### Day 23 -- Graph Multi-Source BFS
 
 Time: 2 hours
 
@@ -427,7 +428,7 @@ Solve:
 Checkpoint:
 - You know when to mark a node visited.
 
-### Day 24 -- Wed Jun 3 -- Topological Sort + Union-Find
+### Day 24 -- Topological Sort + Union-Find
 
 Time: 2 hours
 
@@ -443,7 +444,7 @@ Solve:
 Checkpoint:
 - You can explain indegree and path compression.
 
-### Day 25 -- Thu Jun 4 -- Components + Shortest Path
+### Day 25 -- Components + Shortest Path
 
 Time: 2 hours
 
@@ -454,7 +455,7 @@ Solve:
 Checkpoint:
 - You can choose DFS, Union-Find, or Dijkstra based on the question.
 
-### Day 26 -- Fri Jun 5 -- Dynamic Programming 1D
+### Day 26 -- Dynamic Programming 1D
 
 Time: 2 hours
 
@@ -470,7 +471,7 @@ Solve:
 Checkpoint:
 - You can define `dp[i]` in a full sentence.
 
-### Day 27 -- Sat Jun 6 -- DP Patterns + 2D DP
+### Day 27 -- DP Patterns + 2D DP
 
 Time: 4 hours
 
@@ -488,7 +489,7 @@ Timed set:
 Checkpoint:
 - You understand state, recurrence, base case, and iteration order.
 
-### Day 28 -- Sun Jun 7 -- Tries, Bits, Math
+### Day 28 -- Tries, Bits, Math
 
 Time: 4 hours
 
@@ -509,7 +510,7 @@ Solve:
 Review:
 - Redo 2 graph or DP misses.
 
-### Day 29 -- Mon Jun 8 -- Design-Style Coding
+### Day 29 -- Design-Style Coding
 
 Time: 2 hours
 
@@ -527,7 +528,7 @@ Optional if time remains:
 Checkpoint:
 - You can combine HashMap with another data structure.
 
-### Day 30 -- Tue Jun 9 -- Final Mixed Review
+### Day 30 -- Final Mixed Review
 
 Time: 2 hours
 

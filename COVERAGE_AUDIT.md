@@ -124,7 +124,7 @@ The current version makes these areas explicit and easier to revise:
 - Mock/timed-session tracking
 - Publishable repo structure
 
-This makes the curriculum easier for any learner to follow, not only the original author.
+This makes the curriculum easier for any learner to follow.
 
 ---
 

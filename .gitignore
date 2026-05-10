@@ -1,0 +1,5 @@
+*.class
+out/
+target/
+build/
+.DS_Store
